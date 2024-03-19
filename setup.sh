@@ -299,3 +299,4 @@ setup_theme
 rm setup.sh
 source .bashrc
 termux-reload-settings
+clear
