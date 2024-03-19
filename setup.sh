@@ -299,16 +299,3 @@ setup_theme
 rm setup.sh
 source .bashrc
 termux-reload-settings
-
-########
-##Finish ##
-########
-
-clear -x
-echo ""
-echo ""
-echo "Setup completed successfully!"
-echo ""
-echo "use the command start to  start the x11 server! enjoy!"
-echo ""
-echo "made by king7799"
